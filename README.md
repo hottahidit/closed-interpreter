@@ -21,6 +21,9 @@
 </p>
 <br>
 
+## Changes
+These are the changes I made: All telemetry is contained, no data is sent to open interpreter. I have improved the UI to be more pleasing. I have improved magic commands so you can run any command and get the output faster by doing: <code>/{command}</code> instead of asking the AI to process and do it. This will not work with sudo.
+
 ## Install
 
 ```shell
